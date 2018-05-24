@@ -6,7 +6,9 @@ This repository stores three files used for the demo. in the presentation "Scien
 * _Demo-R.ipynb_: Jupyter notebook that demonstrates the use of R
 * _Demo.xlsx_: Data used by both notebooks for the demo.
 
-In order to run _Demo.ipynb_ properly, you'll need Python 3.5 or higher and modules _pandas_, _matplotlib_, _scikit-learn_, _jupyter_ and their prerequiste modules. You are advised to download and install [Anaconda](https://www.anaconda.com/) to simplify the procedure.
+_Github_ allows you to read the _jupyter_ notebook in the files online directly. All you need is to click at the _.ipynb_ files and you'll see the scripts right away.
+
+However, you'll need to do some software to run them in your computer locally. In order to run _Demo.ipynb_ properly, you'll need Python 3.5 or higher and modules _pandas_, _matplotlib_, _scikit-learn_, _jupyter_ and their prerequiste modules. You are advised to download and install [Anaconda](https://www.anaconda.com/) to simplify the procedure.
 
 To run _Demo-R.ipynb_, besides _Python 3.5 or higher_ and the module _jupyter_, you will also need
 
